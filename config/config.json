@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0xe7a58eadeccc0a574496fbb7902f336dd9300207",
+  "SCAN_LINK": "https://etherscan.io/token/0xe7a58eadeccc0a574496fbb7902f336dd9300207",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Hello Hollow",
+  "SYMBOL": "HH",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 20000000000000000,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/hellohollow",
+  "SHOW_BACKGROUND": true
+}
